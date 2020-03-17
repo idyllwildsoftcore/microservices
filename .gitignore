@@ -1,0 +1,19 @@
+target
+.class
+.classpath
+.springBeans
+.project
+.settings
+local.build.properties
+.metadata
+.factorypath
+syntax: glob
+.recommenders*
+.sonarlint*
+.idea
+*.iml
+*.swp
+~$*
+errorInfo.log.*
+operationInfo.log.*
+*.orig
